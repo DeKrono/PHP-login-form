@@ -1,2 +1,2 @@
 # website
-a login page using PHP
+A login form using PHP.
